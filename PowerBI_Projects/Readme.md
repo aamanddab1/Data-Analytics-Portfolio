@@ -1,2 +1,2 @@
 # Power BI Projects
-This folder will contain all of my Power BI Project files
+This folder contains my Power BI Project files
