@@ -1,2 +1,2 @@
 # Excel Projects
-This folder will contain all of my Excel project files.
+This folder contains all of my Excel project files.
