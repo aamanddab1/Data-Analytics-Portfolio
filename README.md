@@ -6,34 +6,34 @@ Welcome! This portfolio documents my journey in building SQL and Power BI projec
 
 Tools & Skills
 
-SQL: Basic querying, data extraction, filtering, and aggregation
-
-Power BI: Dashboard creation, data visualization, and basic DAX measures
-
-Excel: Data cleaning, pivot tables, and exploratory analysis
+    SQL: Basic querying, data extraction, filtering, and aggregation
+    
+    Power BI: Dashboard creation, data visualization, and basic DAX measures
+    
+    Excel: Data cleaning, pivot tables, and exploratory analysis
 
 Note: I am actively learning and continuing to build on these skills. This portfolio reflects both my current abilities and ongoing growth in analytics.
 
 Projects Overview
-SQL Projects
+-SQL Projects
 
-Retail Sales Analysis: Analyzed sales data to identify trends, top-performing products, and customer behavior
+    Retail Sales Analysis: Analyzed sales data to identify trends, top-performing products, and customer behavior
+    
+    HR Insights: Evaluated department performance, employee retention, and workforce metrics
 
-HR Insights: Evaluated department performance, employee retention, and workforce metrics
+-Power BI Dashboards
 
-Power BI Dashboards
-
-Sales Performance Dashboard: Visualized revenue trends and profit margins
-
-Customer Behavior Dashboard: Analyzed purchase patterns and retention rates
-
-Each project is designed to demonstrate my growing understanding of SQL and Power BI while strengthening my real-world analytical skills.
-
+    Sales Performance Dashboard: Visualized revenue trends and profit margins
+    
+    Customer Behavior Dashboard: Analyzed purchase patterns and retention rates
+    
+    Each project is designed to demonstrate my growing understanding of SQL and Power BI while strengthening my real-world analytical skills.
+    
 Background & Career Goals
 
-Degree: Statistics & Analytics, UNC Chapel Hill
-
-Current Role: Merchandise Analyst
+    Degree: Statistics & Analytics, UNC Chapel Hill
+    
+    Current Role: Merchandise Analyst
 
 Career Objective: Continue expanding my analytical skill set and apply insights gained from both academic training and corporate experience. My long-term goal is to grow in analytics by tackling increasingly complex projects and delivering meaningful, data-driven insights for business decisions.
 
