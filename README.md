@@ -15,7 +15,7 @@ Tools & Skills
 Note: I am actively learning and continuing to build on these skills. This portfolio reflects both my current abilities and ongoing growth in analytics.
 
 Projects Overview
--SQL Projects
+-SQL Project
 
     Retail Sales Analysis: Analyzed sales data to identify trends, top-performing products, and customer behavior
     
