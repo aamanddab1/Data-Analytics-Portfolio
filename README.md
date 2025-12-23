@@ -43,8 +43,6 @@ LinkedIn: https://www.linkedin.com/in/amanda-b-88a91a248
 
 Email: aamanddab1@gmail.com
 
-Thank you for visiting my portfolio! Feel free to explore my projects to see my learning in action.
-
 
 *Thank you for visiting my portfolio! Feel free to explore my projects to see my learning in action.*
 
