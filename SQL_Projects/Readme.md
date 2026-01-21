@@ -1,2 +1,2 @@
 # SQL Projects
-This folder will contain all of my SQL project files.
+This folder contains my SQL project files.
